@@ -9,7 +9,7 @@ local metadata =
 		staticLibs = { "UnityAdsPlugin", }, 
 
 		frameworks = { "UnityAds", },
-		frameworksOptional = { "AdSupport" },
+		frameworksOptional = { "AdSupport", "AppTrackingTransparency" },
 	}
 }
 
